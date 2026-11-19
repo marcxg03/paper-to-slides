@@ -17,7 +17,7 @@ You need a paid Claude plan (Pro, Max, Team or Enterprise) and a PDF of an empir
 3. Follow along. Claude stops and asks you whether the numbers look right, whether the master doc is final, and which deck (A, B or C) you want.
 4. Export from the deck with Share → Export: PDF, PowerPoint or Google Slides.
 
-Tip: you don't have to type. Use the microphone (dictation) in the chat box to talk your notes and answers, and it will feel like briefing a colleague. Use dictation rather than Claude's live voice-call mode: in run 1, the voice call couldn't build or edit the slides, and typed or dictated messages could.
+Tip: you don't have to type. Use the microphone (dictation) in the chat box to talk your notes and answers; it works at every step and is the most reliable way to talk to Claude here. For the Phase 2 discussion, where you and Claude shape the master doc together, Claude's voice-call mode works well and feels like talking it through with a colleague. Switch back to dictation or typing before building the decks: in run 1, the voice call couldn't build or edit the slides.
 
 The workflow doc walks through every step with its prompts and screenshots.
 

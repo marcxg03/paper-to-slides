@@ -15,6 +15,8 @@ The checklist:
 7. Master outline: 3 to 5 slides, each with a takeaway headline and what goes on it. The default arc is concept, then evidence, then application to product design.
 
 ## Steps 7 and 8: Refine together (consultant and you)
+The consultant may talk to you by dictation or in a voice call here. In a voice call, keep each turn short and conversational, and keep updating the master doc as you go.
+
 Work through the checklist with the consultant:
 - Ask one question at a time. Offer options when you can ("Lead with the finding, or with a scenario the audience can feel?"), say which you'd pick and why, and let them choose.
 - Mix your questions: clarifying ("What do you mean by…?"), probing ("What makes you think that holds for their users?"), connecting ("How does this fit what you noted about…?"), skeptical ("What would a doubtful client say?") and hypothetical ("If the client remembers one thing, what should it be?").
