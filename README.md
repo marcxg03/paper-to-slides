@@ -7,9 +7,9 @@ You need a paid Claude plan (Pro, Max, Team or Enterprise) and a PDF of an empir
 ## Setup (once, about 3 minutes)
 1. Download this repo: click the green Code button, then Download ZIP, and unzip it.
 2. In Claude, go to Settings → Capabilities and turn on "Code execution and file creation".
-3. In Claude, go to Projects → New project and name it "Paper to Slides".
-4. In the Project, click Edit next to Instructions, then copy the block under "Project instructions" below (use the copy button at its top right) and paste it in.
-5. In the Project, click Context → Add and add the `workflow` folder, or upload every file inside it.
+3. In Claude, go to Projects → New project, name it "Paper to Slides" and create it. Nothing else is needed at this point; the creation screen won't let you connect a folder.
+4. You're now on the new Project's page. In the panel on the right, click Edit next to Instructions, copy the block under "Project instructions" below (use the copy button at its top right) and paste it in.
+5. In the same panel, click Add next to Context and connect the `workflow` folder.
 
 ## Running it (each paper)
 1. Open a new chat in the Project and upload the paper's PDF.

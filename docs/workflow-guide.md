@@ -34,12 +34,12 @@ You don't have to type. The microphone in the chat box (dictation) works at ever
 
 ![Settings → Capabilities](img/02-capabilities.jpg)
 
-3. In Claude, open Projects → New project and name it "Paper to Slides".
+3. In Claude, open Projects → New project, name it "Paper to Slides" and create it. You don't add anything else here; the creation screen won't let you connect a folder.
 
 ![Creating the Project](img/03-create-project.jpg)
 
-4. In the Project, click Edit next to Instructions and paste in the instructions from Appendix A of this guide. They're also in a copyable block in the README.
-5. In the Project, click Context → Add and add the `workflow` folder.
+4. You land on the new Project's page. In the panel on the right, click Edit next to Instructions and paste in the instructions from Appendix A of this guide (they're also a copyable block in the README).
+5. In the same panel, click Add next to Context and connect the `workflow` folder.
 
 ![The Project page: Instructions, and the workflow folder uploading under Context](img/04-project-context.jpg)
 
