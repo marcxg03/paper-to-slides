@@ -3,7 +3,7 @@
 Goal: a **master doc** the consultant signs off as final. It holds everything the deck needs, and the outline is built through conversation.
 
 ## Step 6 · Create the master doc (you)
-Create a Claude Doc named **"Master doc · [short paper title]"** from `templates/master-doc.md` and open it beside the chat. Fill in: the consultant's notes (verbatim), main claim, per-study blocks, extract table, number-check log. Then **draft every checklist section** below before asking anything, so nothing gets missed. Mark each draft "(draft)".
+Create a Claude Doc named **"Master doc · [short paper title]"** from `templates/master-doc.md` and open it beside the chat. Fill in: the consultant's notes (verbatim), main claim, per-study blocks, extract table, number-check log. Then **draft every checklist section** below before asking anything, so nothing gets missed. Mark each draft "(draft)". From here on, the master doc is your working memory: before each reply that changes content, re-read the relevant section of the doc rather than relying on earlier chat messages.
 
 ### The checklist (the doc's working sections)
 1. **Core finding**: the main claim in one or two sentences.

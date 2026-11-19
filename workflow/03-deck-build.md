@@ -3,7 +3,7 @@
 Goal: one polished 3–5 slide deck in the Irrational Labs style, built only from the master doc, plus a notes doc, ready to export.
 
 ## Step 11 · Build three decks (you)
-Use **Claude Slides in this chat**. Build **three alternative decks, named A, B and C**, from the final master doc and its outline. Same content, different layouts. Follow `style/il-aesthetic.md` and match `style/il-example-deck.pdf`. Name them "Deck A · [layout idea]" etc. Tell the consultant in two or three lines what differs between them.
+**First re-read the final master doc in full.** Build from it, not from the chat history. Use **Claude Slides in this chat**. Build **three alternative decks, named A, B and C**, from the final master doc and its outline. Same content, different layouts. Follow `style/il-aesthetic.md` and match `style/il-example-deck.pdf`. Name them "Deck A · [layout idea]" etc. Tell the consultant in two or three lines what differs between them.
 
 ### Slide rules
 - **3–5 slides**, following the master outline (default arc: concept → evidence → product application).
@@ -35,7 +35,7 @@ Ask: **"Which deck do you want to go with: A, B or C?"** Then refine that one wi
 If a change touches content (a claim, number, example or headline), update the **master doc first**, then patch only the affected slides of the chosen deck. Leave every other slide unchanged. Purely visual changes (color, layout, image) go straight to the slides.
 
 ## Step 14 · Notes doc + speaker notes (you)
-When the deck is settled, create a Claude Doc **"Presenter notes · [short paper title]"** from `templates/notes-doc.md`, built from the master doc and the final slides. Then put each slide's notes into that slide's speaker notes.
+When the deck is settled, create a Claude Doc **"Presenter notes · [short paper title]"** from `templates/notes-doc.md`, built from the master doc (re-read it first) and the final slides. Then put each slide's notes into that slide's speaker notes.
 
 ## Step 15 · Export (consultant) ▶ checkpoint
 Tell the consultant:
