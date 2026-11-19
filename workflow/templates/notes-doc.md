@@ -1,17 +1,17 @@
 # Presenter notes · [short paper title]
 
-Deck: [Deck letter + title] · Built from: Master doc · [title] (final [date])
+Deck: [deck letter and title] · Built from: Master doc · [title] (final, [date])
 
-For each slide:
+Repeat this block for each slide:
 
-## Slide [N] · [takeaway headline]
-- **Key message (say this if nothing else):** [one sentence]
-- **Talking points:**
+## Slide [N]: [takeaway headline]
+- Key message (if you say nothing else): [one sentence]
+- Talking points:
   - [point]
   - [point]
   - [point]
-- **Numbers to say out loud:** [number] ([page in the paper])
-- **If asked:** [likely question → short answer from the master doc]
-- **Transition:** [one line into the next slide]
+- Numbers to say out loud: [number] ([page in the paper])
+- If someone asks: [likely question, and a short answer from the master doc]
+- Transition: [one line into the next slide]
 
-The speaker notes in the deck are the "Key message" + "Talking points" for each slide.
+The deck's speaker notes carry each slide's key message and talking points.

@@ -1,42 +1,42 @@
-# Phase 2 · Iteration (steps 6–10)
+# Phase 2: Iteration (steps 6 to 10)
 
-Goal: a **master doc** the consultant signs off as final. It holds everything the deck needs, and the outline is built through conversation.
+Goal: a master doc the consultant signs off as final. It holds everything the deck needs, and the outline takes shape through the conversation.
 
-## Step 6 · Create the master doc (you)
-Create a Claude Doc named **"Master doc · [short paper title]"** from `templates/master-doc.md` and open it beside the chat. Fill in: the consultant's notes (verbatim), main claim, per-study blocks, extract table, number-check log. Then **draft every checklist section** below before asking anything, so nothing gets missed. Mark each draft "(draft)". From here on, the master doc is your working memory: before each reply that changes content, re-read the relevant section of the doc rather than relying on earlier chat messages.
+## Step 6: Draft the checklist (you)
+Re-read the master doc. Then draft every checklist section (section 4) before asking anything, so nothing gets missed, and mark each one "(draft)". From here on the master doc is your working memory: before any reply that changes content, re-read the relevant section of the doc instead of relying on earlier messages.
 
-### The checklist (the doc's working sections)
-1. **Core finding**: the main claim in one or two sentences.
-2. **The studies**: the featured study (result + number) and how the others support it (main-claim rule).
-3. **Audience & words**: who the deck is for (default: a client product team, so PMs, designers and researchers, with no behavioral-science background) and any term that needs a plain definition.
-4. **Takeaway headline**: the one sentence the audience should remember.
-5. **Product implications**: see step 7.
-6. **Left out**: what we're deliberately not showing (caveats, secondary results, design details), so the cut is a choice, not an accident.
-7. **Master outline**: 3–5 slides, each with a takeaway headline and what's on it. Default arc: **concept → evidence → application to product design**.
+The checklist:
+1. Core finding: the main claim in one or two sentences.
+2. The studies: the featured study's result and number, and how the others support it.
+3. Audience and words: who the deck is for, and any term that needs a plain definition. The default audience is a client product team (product managers, designers and researchers) with no background in behavioral science.
+4. Takeaway headline: the one sentence the audience should remember.
+5. Product implications: see step 7.
+6. Left out: what we're deliberately not showing (caveats, secondary results, design details), written down so the consultant agrees to each cut.
+7. Master outline: 3 to 5 slides, each with a takeaway headline and what goes on it. The default arc is concept, then evidence, then application to product design.
 
-## Steps 7–8 · Refine together (consultant + you)
-Draft first, then discuss. Work through the checklist with the consultant:
-- **One question at a time.** Prefer multiple-choice when you can ("Lead with the finding or with a scenario the audience can feel?"). Give your recommendation and why, then let them choose.
-- **Use question types deliberately:** clarifying ("What do you mean by…?"), probing ("What makes you think that holds for their users?"), connecting ("How does this fit what you noted about…?"), counter ("What would someone skeptical say?"), hypothetical ("If the client only remembers one thing…?").
-- **Don't withhold.** This is a working session, not a quiz. Answer when asked, then hand the choice back.
-- **Update the master doc as you go**: you are the note-taker. Remove "(draft)" when a section is agreed. The outline evolves with the conversation; there is no separate "now draft the outline" step.
+## Steps 7 and 8: Refine together (consultant and you)
+Work through the checklist with the consultant:
+- Ask one question at a time. Offer options when you can ("Lead with the finding, or with a scenario the audience can feel?"), say which you'd pick and why, and let them choose.
+- Mix your questions: clarifying ("What do you mean by…?"), probing ("What makes you think that holds for their users?"), connecting ("How does this fit what you noted about…?"), skeptical ("What would a doubtful client say?") and hypothetical ("If the client remembers one thing, what should it be?").
+- Answer when the consultant asks you something, then hand the decision back to them.
+- Take notes in the master doc as you go, and remove "(draft)" when a section is agreed. The outline changes as the conversation does; there's no separate drafting step.
 
-### Implications (checklist item 5): always in this order
-1. **The consultant's ideas first.** Pull the product ideas from their notes and develop those first ("You mentioned X; here's how that could work in an onboarding flow…").
-2. **Then yours**: 2–4 ideas, each tied to the finding.
-3. **Then real cases**: how companies have used this idea. Each one has a **link to a real public source**, or it's labelled **Hypothetical**. If you can't verify a case, say so.
+Product implications always go in this order:
+1. The consultant's ideas. Start with the product ideas from their notes and develop them ("You mentioned X. Here's how that could work in an onboarding flow…").
+2. Your ideas: two to four, each tied to the finding.
+3. Real cases: how companies have used the idea. Each case links to a real public source or is labelled "Hypothetical". If you can't verify a case, say so.
 
-Focus on the products Irrational Labs' clients build (fintech, health, consumer tech and software): onboarding, pricing pages, choice architecture, defaults, notifications, sign-up funnels.
+Aim the implications at the kinds of products Irrational Labs' clients build in fintech, health and consumer software: onboarding, pricing pages, defaults, choice architecture, notifications and sign-up funnels.
 
-## Step 9 · Number check #2 (you)
-Before closing, recheck every number and factual claim in the master doc against the extract table (same rules as check #1). Add the results to the number-check log.
+## Step 9: Number check 2 (you)
+Before closing, recheck every number and factual claim in the master doc against the extract table, using the same rules as check 1, and add the results to the number-check log.
 
-## Step 10 · Close out (you, then consultant) ▶ checkpoint
-When every checklist item is agreed, say which ones are done. Nudge on anything still open ("We haven't settled the takeaway headline. Want to?"). Then ask: **"Is the master doc final? Anything else before I build the decks?"**
+## Step 10: Close out (you, then consultant; checkpoint)
+When every checklist item is agreed, list them as done. If one is still open, raise it ("We haven't settled the takeaway headline yet. Want to?"). Then ask: "Is the master doc final? Anything else before I build the decks?"
 
-There is no turn limit. The consultant decides when they're done. Build nothing until they confirm.
+There's no limit on turns; the consultant decides when they're done. Build nothing until they confirm.
 
 Then move to `03-deck-build.md`.
 
 ---
-*Question approach adapted from obra/superpowers `brainstorming` (MIT) and bevibing/socrates-skill (MIT). See CREDITS.md.*
+The questioning approach is adapted from obra/superpowers `brainstorming` (MIT) and bevibing/socrates-skill (MIT). See CREDITS.md.
