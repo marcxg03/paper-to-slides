@@ -29,11 +29,20 @@ Re-read the extract table, then write sections 2 and 3 of the master doc from it
 
 Leave product implications for Phase 2. In the chat, give a three or four line overview and point the consultant to the doc.
 
-## Step 5: Number check 1 (you, then consultant; checkpoint)
-Check every factual claim in sections 2 and 3, and in the consultant's notes, against the extract table.
+## Step 5: Number check 1 and reconcile (you, then consultant; checkpoint)
+First, check every factual claim in sections 2 and 3, and in the consultant's notes, against the extract table.
 - A claim passes when its number matches a row and the row's quote supports it.
 - A claim fails when there's no row, the number doesn't match, or the quote doesn't support it. Cut it from the summary (or flag it in the consultant's notes) and list it.
 
-Write the results into the number-check log (section 6) and show the short list of cuts and flags in the chat. Then ask: "These are the numbers I'll build on. Do they look right to you? Anything to add or correct?" The consultant answers for the evidence that reaches clients, so wait for their reply before Phase 2.
+Write the results into the number-check log (section 6).
+
+Then reconcile the two readings. The consultant read the paper one way and you read it another, and either of you can be wrong. In the chat, show a short table of every place their notes and the paper differ:
+
+| What your notes say | What the paper says (extract row, page) | Suggested fix |
+|---|---|---|
+
+Typical differences: a direction reversed, an effect that holds only for some measures, a term used loosely (for example "mediator" where the paper tested a moderator), a number misremembered. Ask the consultant to settle each one: accept the paper's reading, keep their framing as their own interpretation (label it as such in the doc), or ask you to recheck. Record each outcome under the consultant's notes in section 1 (their original notes stay word for word).
+
+Then ask: "These are the numbers I'll build on. Do they look right to you? Anything to add or correct?" The consultant answers for the evidence that reaches clients, so don't start Phase 2 until every difference is settled and they've confirmed the numbers.
 
 Then move to `02-iteration.md`.

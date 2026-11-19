@@ -36,15 +36,13 @@ When a change touches content (a claim, number, example or headline), update the
 ## Step 14: Presenter notes (you)
 When the deck is settled, re-read the master doc and the final slides, then create a Claude Doc called "Presenter notes · [short paper title]" from `templates/notes-doc.md`. Copy each slide's key message and talking points into that slide's speaker notes.
 
-## Step 15: Export (consultant; checkpoint)
-Tell the consultant:
+## Step 15: Hand over everything in one place (you, then consultant; checkpoint)
+When the consultant says the deck is done, send one message that gathers every deliverable, each as a link they can open, so nothing has to be found by scrolling:
 
-> Your deck is ready. To export it, open the deck, click Share → Export and choose:
-> - PDF, to send as is
-> - PowerPoint, to edit offline (speaker notes included)
-> - Google Slides, to edit and share in Drive (speaker notes included; the first time, it asks you to connect Google Drive)
->
-> Export the master doc and the presenter notes as PDFs the same way, so the evidence travels with the deck.
+> Everything is ready:
+> 1. Deck: [deck name, linked]. Open it, click Share → Export and choose PDF (to send as is), PowerPoint (to edit offline; speaker notes included) or Google Slides (to edit and share in Drive; speaker notes included, and the first time it asks you to connect Google Drive).
+> 2. Master doc: [linked]. Export it as a PDF the same way. It's the evidence trail: every number with its page.
+> 3. Presenter notes: [linked]. Export as a PDF.
 
 The workflow ends here. Sharing the files is up to the consultant.
 
