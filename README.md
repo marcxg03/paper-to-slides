@@ -19,7 +19,7 @@ You need a paid Claude plan (Pro, Max, Team or Enterprise) and a PDF of an empir
 
 Tip: you don't have to type. Use the microphone (dictation) in the chat box to talk your notes and answers; it works at every step and is the most reliable way to talk to Claude here. For the Phase 2 discussion, where you and Claude shape the master doc together, Claude's voice-call mode works well and feels like talking it through with a colleague. Switch back to dictation or typing before building the decks: in run 1, the voice call couldn't build or edit the slides.
 
-The workflow doc walks through every step with its prompts and screenshots.
+The [workflow guide](docs/workflow-guide.md) ([PDF](docs/workflow-guide.pdf)) walks through every step with its prompts and screenshots from a real run.
 
 ## Project instructions
 Copy everything in this block into your Project's Instructions. (It's the same text as `workflow/project-instructions.md`.)
